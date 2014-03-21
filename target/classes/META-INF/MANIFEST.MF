@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Built-By: Jimmy
+Build-Jdk: 1.6.0_01
+Bundle-Version: 1.0.0.SNAPSHOT
+Tool: Bnd-1.15.0
+Bundle-Name: org.cytoscape.pagerank
+Bnd-LastModified: 1395431759695
+Bundle-Activator: org.cytoscape.pagerank.internal.CyActivator
+Created-By: Apache Maven Bundle Plugin
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.cytoscape.pagerank
+Import-Package: org.cytoscape.model;version="[3.0,4)",org.cytoscape.se
+ rvice.util;version="[3.0,4)",org.cytoscape.task;version="[3.0,4)",org
+ .cytoscape.work;version="[3.0,4)",org.osgi.framework;version="[1.5,2)
+ "
+
